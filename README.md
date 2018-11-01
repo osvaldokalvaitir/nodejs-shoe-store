@@ -33,22 +33,55 @@ npm run build
 ## Índice
 
 - [Tecnologias](#tecnologias)
+  - [Visual Studio Code](#visualstudiocode)
   - [Node.js](#nodejs)
   - [Yarn](#yarn)
+  - [Docker](#docker)
+  - [Mongo](#mongo)
+  - [Robo 3T](#robo3t)
+  - [Insomnia](#insomnia)
+  
+- [Bibliotecas](#bibliotecas)
   - [Express](#express)
   - [Nodemon](#nodemon)
+  - [requireDir](#requiredir)
+  - [Mongoose](#mongoose)
 
 
 ## Tecnologias
 
+### [Visual Studio Code](https://code.visualstudio.com)
+Editor de código-fonte que inclui suporte para depuração, realce de sintaxe, complementação inteligente de código, snippets, entre outros.
+
 ### [Node.js](https://nodejs.org/)
-É um interpretador de código JavaScript com o código aberto, focado em migrar o Javascript do lado do cliente para servidores.
+Interpretador de código JavaScript com o código aberto, focado em migrar o Javascript do lado do cliente para servidores.
 
 ### [Yarn](https://yarnpkg.com/)
 Gerenciamento de dependências rápido, confiável e seguro.
+
+### [Docker](https://www.docker.com)
+Possibilita o empacotamento de uma aplicação ou ambiente inteiro dentro de um container, tornando-se portável para qualquer outro host.
+
+### [Mongo](https://hub.docker.com/_/mongo)
+Foi utilizado esta a imagem oficial do Mongo para Docker.
+
+### [Robo 3T](https://robomongo.org)
+Interface gráfica para o banco de dados MongoDB.
+
+### [Insomnia](https://insomnia.rest)
+Cliente REST utilizado para testar as requisições REST ao servidor.
+
+
+## Bibliotecas
 
 ### [Express](https://github.com/expressjs/express)
 Framework web rápido, flexível e minimalista para Node.js que ajuda a controlar as rotas e as views.
 
 ### [Nodemon](https://github.com/remy/nodemon)
 Monitora as alterações no aplicativo node.js e reinicie o servidor automaticamente.
+
+### [requireDir](https://github.com/aseemk/requireDir)
+Assistente de diretórios para carregamento de arquivos.
+
+### [Mongoose](https://github.com/Automattic/mongoose)
+Ferramenta de modelagem de objetos do MongoDB projetada para funcionar em um ambiente assíncrono.
