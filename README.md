@@ -33,12 +33,12 @@ npm run build
 ## Índice
 
 - [Tecnologias](#tecnologias)
-  - [Visual Studio Code](#visualstudiocode)
+  - [Visual Studio Code](#visual-studio-code)
   - [Node.js](#nodejs)
   - [Yarn](#yarn)
   - [Docker](#docker)
   - [Mongo](#mongo)
-  - [Robo 3T](#robo3t)
+  - [Robo 3T](#robo-3t)
   - [Insomnia](#insomnia)
   
 - [Bibliotecas](#bibliotecas)
