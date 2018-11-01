@@ -63,7 +63,7 @@ Gerenciamento de dependências rápido, confiável e seguro.
 Possibilita o empacotamento de uma aplicação ou ambiente inteiro dentro de um container, tornando-se portável para qualquer outro host.
 
 ### [Mongo](https://hub.docker.com/_/mongo)
-Foi utilizado esta a imagem oficial do Mongo para Docker.
+Imagem oficial do Mongo para o ambiente Docker.
 
 ### [Robo 3T](https://robomongo.org)
 Interface gráfica para o banco de dados MongoDB.
