@@ -46,6 +46,7 @@ npm run build
   - [Nodemon](#nodemon)
   - [requireDir](#requiredir)
   - [Mongoose](#mongoose)
+  - [CORS](#cors)
 
 
 ## Tecnologias
@@ -85,3 +86,6 @@ Assistente de diretórios para carregamento de arquivos.
 
 ### [Mongoose](https://github.com/Automattic/mongoose)
 Ferramenta de modelagem de objetos do MongoDB projetada para funcionar em um ambiente assíncrono.
+
+### [CORS](https://github.com/expressjs/cors)
+Fornece um middleware que pode ser usado para ativar o CORS com várias opções.
