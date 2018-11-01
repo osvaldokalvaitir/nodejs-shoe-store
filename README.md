@@ -46,6 +46,7 @@ npm run build
   - [Nodemon](#nodemon)
   - [requireDir](#requiredir)
   - [Mongoose](#mongoose)
+  - [Mongoose Paginate](#mongoose-paginate)  
   - [CORS](#cors)
 
 
@@ -86,6 +87,9 @@ Assistente de diretórios para carregamento de arquivos.
 
 ### [Mongoose](https://github.com/Automattic/mongoose)
 Ferramenta de modelagem de objetos do MongoDB projetada para funcionar em um ambiente assíncrono.
+
+### [Mongoose Paginate](https://github.com/edwardhotchkiss/mongoose-paginate)
+Realiza a paginação dos dados para as requisições no Mongoose.
 
 ### [CORS](https://github.com/expressjs/cors)
 Fornece um middleware que pode ser usado para ativar o CORS com várias opções.
