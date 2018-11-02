@@ -1,4 +1,4 @@
-## Node Express Api
+## Node Express API
 
 API created in Node.js with the Express framework.
 
