@@ -45,10 +45,10 @@ npm run dev | yarn run dev
 ### [Visual Studio Code](https://code.visualstudio.com)
 Editor de código-fonte que inclui suporte para depuração, realce de sintaxe, complementação inteligente de código, snippets, entre outros.
 
-### [Node.js](https://nodejs.org/)
+### [Node.js](https://nodejs.org)
 Interpretador de código JavaScript com o código aberto, focado em migrar o Javascript do lado do cliente para servidores.
 
-### [Yarn](https://yarnpkg.com/)
+### [Yarn](https://yarnpkg.com)
 Gerenciamento de dependências rápido, confiável e seguro.
 
 ### [Docker](https://www.docker.com)
