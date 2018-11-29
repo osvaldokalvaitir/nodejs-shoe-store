@@ -38,26 +38,26 @@ npm run dev | yarn run dev
 
 ### Bibliotecas do Node.js
 
-[CORS](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/cors.md)
+- [CORS](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/cors.md)
 
-[ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
+- [ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
 
-[Express](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express.md)
+- [Express](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express.md)
 
-[Mongoose](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/mongoose.md)
+- [Mongoose](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/mongoose.md)
 
-[Mongoose Paginate](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/mongoose-paginate.md)
+- [Mongoose Paginate](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/mongoose-paginate.md)
 
-[Nodemon](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemon.md)
+- [Nodemon](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemon.md)
 
-[requireDir](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/requiredir.md)
+- [requireDir](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/requiredir.md)
 
 ### Outras Ferramentas
 
-[Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/docker.md)
+- [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/docker.md)
 
-- [Imagem do MongoDB](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/images/mongodb.md)
+  - [Imagem do MongoDB](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/images/mongodb.md)
 
-[Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api/insomnia.md)
+- [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api/insomnia.md)
 
-[Robo 3T](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/robo-3t.md)
+- [Robo 3T](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/robo-3t.md)
