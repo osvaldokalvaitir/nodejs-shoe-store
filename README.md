@@ -58,10 +58,18 @@ npm run dev | yarn run dev
 
 [requireDir](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/requiredir.md)
 
-### [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/docker.md)
+### Docker
 
-#### [Imagem MongoDB](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/images/mongodb.md)
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/docker.md) para mais detalhes.
 
-### [Robo 3T](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/robo-3t.md)
+#### MongoDB
 
-### [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api/insomnia.md)
+[Imagem do MongoDB](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/images/mongodb.md)
+
+### Robo 3T
+
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/robo-3t.md) para mais detalhes.
+
+### Insomnia
+
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api/insomnia.md) para mais detalhes.
