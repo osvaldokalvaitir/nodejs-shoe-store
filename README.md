@@ -20,7 +20,7 @@ API criada em Node.js com o framework Express.
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings) e siga as Configurações Iniciais.
 
-### Instalação e execução
+### Instalação e Execução
 
 Depois de instalado o Node.js/Yarn, abra o prompt de comando e dentro da pasta do projeto execute os comandos abaixo.
 
