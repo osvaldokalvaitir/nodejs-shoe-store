@@ -8,7 +8,9 @@ API criada em Node.js com o framework Express.
 
   - [Configurações Iniciais](#configurações-iniciais)
 
-  - [Instalação e execução](#instalação-e-execução)
+  - [Instalação do Projeto](#instalação-do-projeto)
+  
+  - [Execução do Projeto](#execução-do-projeto)
 
   - [Bibliotecas do Node.js](#bibliotecas-do-nodejs)
 
@@ -20,21 +22,17 @@ API criada em Node.js com o framework Express.
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings) e siga as Configurações Iniciais.
 
-### Instalação e Execução
+### Configurações Iniciais
 
-Depois de instalado o Node.js/Yarn, abra o prompt de comando e dentro da pasta do projeto execute os comandos abaixo.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga as Configurações Iniciais.
 
-Para instalar as dependências do projeto:
+### Instalação do Projeto
 
-```
-npm install | yarn
-```
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Instalação de Projeto.
 
-Executar o projeto localmente:
+### Execução do Projeto
 
-```
-npm run dev | yarn run dev
-```
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
 
 ### Bibliotecas do Node.js
 
