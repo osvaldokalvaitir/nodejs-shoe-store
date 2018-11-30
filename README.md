@@ -20,10 +20,6 @@ API criada em Node.js com o framework Express.
 
 ### Configurações Iniciais
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings) e siga as Configurações Iniciais.
-
-### Configurações Iniciais
-
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga as Configurações Iniciais.
 
 ### Instalação do Projeto
