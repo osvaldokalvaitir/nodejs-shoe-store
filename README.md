@@ -2,6 +2,16 @@
 
 API criada em Node.js com o framework Express.
 
+## Resumo
+
+Esta API foi desenvolvida para disponibilizar um CRUD, ou seja:
+
+- Lista de todos os produtos
+- Lista somente dados de um produto selecionado
+- Adiciona novos produtos
+- Edita dados de produtos existentes
+- Exclui produtos existentes
+
 ## Índice
 
 - [Desenvolvimento](#desenvolvimento)
