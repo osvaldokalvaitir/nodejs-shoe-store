@@ -12,7 +12,7 @@ API criada em Node.js com o framework Express.
   
   - [Execução do Projeto](#execução-do-projeto)
 
-  - [Bibliotecas do Node.js](#bibliotecas-do-nodejs)
+  - [Bibliotecas](#bibliotecas)
 
   - [Outras Ferramentas](#outras-ferramentas)
 
@@ -30,7 +30,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
 
-### Bibliotecas do Node.js
+### Bibliotecas
 
 - [CORS](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/cors.md)
 
