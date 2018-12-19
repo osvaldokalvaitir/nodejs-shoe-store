@@ -2,10 +2,6 @@
 
 API criada em Node.js com o framework Express.
 
-## Resumo
-
-Esta API foi desenvolvida para disponibilizar um CRUD de produtos.
-
 ## Índice
 
 - [Rotas](#rotas)
