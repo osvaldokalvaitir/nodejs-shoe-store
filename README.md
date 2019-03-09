@@ -1,6 +1,6 @@
 # Node Express API
 
-API criada em Node.js com o framework Express.
+Aplicação usando Node.js, Express, CORS, ESLint, Mongoose e Mongoose Paginate.
 
 ## Índice
 
