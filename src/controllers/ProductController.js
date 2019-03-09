@@ -1,35 +1,37 @@
-const mongoose = require('mongoose');
-const Product = mongoose.model('Product');
+const mongoose = require('mongoose')
+const Product = mongoose.model('Product')
 
 module.exports = {
-    async index(req, res) {
-        const { page = 1 } = req.query;
-        const products = await Product.paginate({}, { page, limit: 10 }); // No 1º parâmetro passa uma condição se quiser
+  async index (req, res) {
+    const { page = 1 } = req.query
+    const products = await Product.paginate({}, { page, limit: 10 }) // No 1º parâmetro passa uma condição se quiser
 
-        return res.json(products);
-    },
+    return res.json(products)
+  },
 
-    async show(req, res) {
-        const product = await Product.findById(req.params.id);
+  async show (req, res) {
+    const product = await Product.findById(req.params.id)
 
-        return res.json(product);
-    },
+    return res.json(product)
+  },
 
-    async store(req, res) {
-        const product = await Product.create(req.body);
+  async store (req, res) {
+    const product = await Product.create(req.body)
 
-        return res.json(product);
-    },
+    return res.json(product)
+  },
 
-    async update(req, res) {
-        const product = await Product.findByIdAndUpdate(req.params.id, req.body, { new: true });
+  async update (req, res) {
+    const product = await Product.findByIdAndUpdate(req.params.id, req.body, {
+      new: true
+    })
 
-        return res.json(product);
-    },
+    return res.json(product)
+  },
 
-    async destroy(req, res) {
-        await Product.findByIdAndRemove(req.params.id);
+  async destroy (req, res) {
+    await Product.findByIdAndRemove(req.params.id)
 
-        return res.send();
-    }
-};
+    return res.send()
+  }
+}

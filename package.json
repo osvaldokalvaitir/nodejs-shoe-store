@@ -1,7 +1,7 @@
 {
   "name": "node-express-api",
   "version": "1.0.0",
-  "description": "API created in Node.js with the Express framework",
+  "description": "Application using Node.js, Express, CORS, ESLint, Mongoose and Mongoose Paginate",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
