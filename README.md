@@ -1,4 +1,4 @@
-# Node Express API
+# Node - Express API
 
 Aplicação usando Node.js, Express, CORS, ESLint, Mongoose e Mongoose Paginate.
 
@@ -11,7 +11,7 @@ Aplicação usando Node.js, Express, CORS, ESLint, Mongoose e Mongoose Paginate.
   - [Configurações Iniciais](#configurações-iniciais)
 
   - [Instalação do Projeto](#instalação-do-projeto)
-  
+
   - [Execução do Projeto](#execução-do-projeto)
 
   - [Bibliotecas](#bibliotecas)
