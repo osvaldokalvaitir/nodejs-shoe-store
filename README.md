@@ -30,11 +30,12 @@ Aplicação usando Node.js, Express, CORS, ESLint, Mongoose e Mongoose Paginate.
 
 ## Rotas
 
-- Lista de todos os produtos
-- Lista somente dados de um produto selecionado
-- Adiciona novos produtos
-- Edita dados de produtos existentes
-- Exclui produtos existentes
+- Produtos
+  - Lista de todos os produtos
+  - Lista somente dados de um produto selecionado
+  - Adiciona novos produtos
+  - Edita dados de produtos existentes
+  - Exclui produtos existentes
 
 ## Desenvolvimento
 
