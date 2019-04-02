@@ -32,7 +32,7 @@ Aplicação usando Node.js, Express, CORS, ESLint, Mongoose e Mongoose Paginate.
 
 - Produtos
   - Lista de todos os produtos
-  - Lista somente dados de um produto selecionado
+  - Lista somente dados de um produto
   - Adiciona novos produtos
   - Edita dados de produtos existentes
   - Exclui produtos existentes
