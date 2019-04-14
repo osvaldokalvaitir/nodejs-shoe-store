@@ -14,8 +14,6 @@ Aplicação usando Node.js, Express, CORS, ESLint, Mongoose e Mongoose Paginate.
 
 ## Índice
 
-- [Rotas](#rotas)
-
 - [Desenvolvimento](#desenvolvimento)
 
   - [Configurações Iniciais](#configurações-iniciais)
@@ -24,18 +22,13 @@ Aplicação usando Node.js, Express, CORS, ESLint, Mongoose e Mongoose Paginate.
 
   - [Execução do Projeto](#execução-do-projeto)
 
+- [Utilizados no Projeto](#utilizados-no-projeto)
+
   - [Bibliotecas](#bibliotecas)
 
-  - [Outras Ferramentas](#outras-ferramentas)
+  - [APIs](#apis)
 
-## Rotas
-
-- Produtos
-  - Lista de todos os produtos
-  - Lista somente dados de um produto
-  - Adiciona novos produtos
-  - Edita dados de produtos existentes
-  - Exclui produtos existentes
+  - [Ferramentas](#ferramentas)
 
 ## Desenvolvimento
 
@@ -50,6 +43,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Execução do Projeto
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
+
+## Utilizados no Projeto
 
 ### Bibliotecas
 
@@ -67,7 +62,21 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [requireDir](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/requiredir.md)
 
-### Outras Ferramentas
+### APIs
+
+- **Interna**
+
+  - **Rotas**
+
+    - Produtos
+
+      - Busca todos os produtos
+      - Busca somente dados de um produto selecionado
+      - Adiciona novos produtos
+      - Edita dados de produtos existentes
+      - Exclui produtos existentes
+
+### Ferramentas
 
 - [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/docker.md)
 
