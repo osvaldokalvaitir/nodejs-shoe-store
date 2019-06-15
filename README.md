@@ -70,9 +70,9 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
     - Produtos
 
-      - Busca todos os produtos
-      - Busca somente dados de um produto selecionado
       - Adiciona novos produtos
+      - Lista todos os produtos
+      - Lista somente dados de um produto selecionado
       - Edita dados de produtos existentes
       - Exclui produtos existentes
 
