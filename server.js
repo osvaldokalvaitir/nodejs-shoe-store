@@ -9,7 +9,7 @@ app.use(express.json())
 app.use(cors())
 
 // Iniciando o DB
-mongoose.connect('mongodb://localhost:27017/node-express-api', {
+mongoose.connect('mongodb://localhost:27017/nodejs-express-api', {
   useNewUrlParser: true
 })
 

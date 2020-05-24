@@ -1,24 +1,15 @@
 {
-  "name": "node-express-api",
+  "name": "nodejs-express-api",
   "version": "1.0.0",
-  "description": "Application using Node.js, Express, CORS, ESLint, Mongoose and Mongoose Paginate",
   "main": "index.js",
+  "repository": "https://github.com/osvaldokalvaitir/nodejs-express-api.git",
+  "author": "Osvaldo Kalvaitir Filho <osvaldokalvaitir@outlook.com>",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/osvaldokalvaitir/node-express-api.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/osvaldokalvaitir/node-express-api/issues"
-  },
-  "homepage": "https://github.com/osvaldokalvaitir/node-express-api#readme",
   "dependencies": {
     "cors": "^2.8.4",
     "express": "^4.16.4",
