@@ -1,8 +1,8 @@
 {
-  "name": "nodejs-express-api",
+  "name": "nodejs-shoe-store",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/osvaldokalvaitir/nodejs-express-api.git",
+  "repository": "https://github.com/osvaldokalvaitir/nodejs-shoe-store.git",
   "author": "Osvaldo Kalvaitir Filho <osvaldokalvaitir@outlook.com>",
   "license": "MIT",
   "scripts": {
